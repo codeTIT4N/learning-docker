@@ -1,0 +1,13 @@
+{
+  "name": "simple-express-app",
+  "author": "Lokesh Kumar (codeTITAN)",
+  "version": "0.0.1.RELEASE",
+  "description": "A simple express app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
